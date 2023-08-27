@@ -19,13 +19,7 @@ rotation, extraction, compositing and gamma correction are available.
 Most modern macOS, Windows and Linux systems running Node.js >= 14.15.0
 do not require any additional install or runtime dependencies.
 
-## Documentation
 
-Visit [sharp.pixelplumbing.com](https://sharp.pixelplumbing.com/) for complete
-[installation instructions](https://sharp.pixelplumbing.com/install),
-[API documentation](https://sharp.pixelplumbing.com/api-constructor),
-[benchmark tests](https://sharp.pixelplumbing.com/performance) and
-[changelog](https://sharp.pixelplumbing.com/changelog).
 
 ## Examples
 
